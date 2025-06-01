@@ -11,7 +11,7 @@ Climate indicators that may be useful in correlation analyses are included in /C
 
 .xlsx and .csv files in the main directory include daily outputs for 2001 to 2024 for the region around Tudor Hill plus or minus 3 deg of Lat and Lon.
 
-Full descriptions of the variables and their sourcing is in the Variable Descriptions files.
+Full descriptions of the variables and their sourcing is in the Variable Descriptions files. The file outputs include dust and other aerosol parameters that may be useful.
 
 
 -Dan
